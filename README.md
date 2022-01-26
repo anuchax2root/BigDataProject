@@ -14,8 +14,14 @@ Test readme in Big Data Project.
 * Any modifications needed to be made to files/folders
 
 ### Example code
-
-
+```
+print('manin menu')
+print('hello')
+print('hello1')
+print('hello2')
+print('hello3')
+print('hello4')
+```
 
 ### Executing program
 
